@@ -1,0 +1,15 @@
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week6\Week6Practical\Week6Practical\obj\Debug\net8.0\Week6Practical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week6\Week6Practical\Week6Practical\obj\Debug\net8.0\Week6Practical.AssemblyInfoInputs.cache
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week6\Week6Practical\Week6Practical\obj\Debug\net8.0\Week6Practical.AssemblyInfo.cs
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week6\Week6Practical\Week6Practical\obj\Debug\net8.0\Week6Practical.csproj.CoreCompileInputs.cache
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week6\Week6Practical\Week6Practical\obj\Debug\net8.0\Week6Practical.sourcelink.json
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week6\Week6Practical\Week6Practical\bin\Debug\net8.0\Week6Practical.exe
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week6\Week6Practical\Week6Practical\bin\Debug\net8.0\Week6Practical.deps.json
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week6\Week6Practical\Week6Practical\bin\Debug\net8.0\Week6Practical.runtimeconfig.json
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week6\Week6Practical\Week6Practical\bin\Debug\net8.0\Week6Practical.dll
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week6\Week6Practical\Week6Practical\bin\Debug\net8.0\Week6Practical.pdb
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week6\Week6Practical\Week6Practical\obj\Debug\net8.0\Week6Practical.dll
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week6\Week6Practical\Week6Practical\obj\Debug\net8.0\refint\Week6Practical.dll
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week6\Week6Practical\Week6Practical\obj\Debug\net8.0\Week6Practical.pdb
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week6\Week6Practical\Week6Practical\obj\Debug\net8.0\Week6Practical.genruntimeconfig.cache
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week6\Week6Practical\Week6Practical\obj\Debug\net8.0\ref\Week6Practical.dll

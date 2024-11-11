@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spart\\OneDrive - Ngee Ann Polytechnic\\Semester 4\\SDP\\NP_SDP_Tutorials-Practicals\\Week6\\Week6Practical2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA0CD22-07DD-4262-980A-E899E38D8FB0}|Week6Practical2\\Week6Practical2.csproj|c:\\users\\spart\\onedrive - ngee ann polytechnic\\semester 4\\sdp\\np_sdp_tutorials-practicals\\week6\\week6practical2\\week6practical2\\questgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA0CD22-07DD-4262-980A-E899E38D8FB0}|Week6Practical2\\Week6Practical2.csproj|solutionrelative:week6practical2\\questgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA0CD22-07DD-4262-980A-E899E38D8FB0}|Week6Practical2\\Week6Practical2.csproj|c:\\users\\spart\\onedrive - ngee ann polytechnic\\semester 4\\sdp\\np_sdp_tutorials-practicals\\week6\\week6practical2\\week6practical2\\questfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA0CD22-07DD-4262-980A-E899E38D8FB0}|Week6Practical2\\Week6Practical2.csproj|solutionrelative:week6practical2\\questfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA0CD22-07DD-4262-980A-E899E38D8FB0}|Week6Practical2\\Week6Practical2.csproj|c:\\users\\spart\\onedrive - ngee ann polytechnic\\semester 4\\sdp\\np_sdp_tutorials-practicals\\week6\\week6practical2\\week6practical2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA0CD22-07DD-4262-980A-E899E38D8FB0}|Week6Practical2\\Week6Practical2.csproj|solutionrelative:week6practical2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\spart\\OneDrive - Ngee Ann Polytechnic\\Semester 4\\SDP\\NP_SDP_Tutorials-Practicals\\Week6\\Week6Practical2\\Week6Practical2\\QuestGenerator.cs",
+              "RelativeDocumentMoniker": "Week6Practical2\\QuestGenerator.cs",
+              "ToolTip": "C:\\Users\\spart\\OneDrive - Ngee Ann Polytechnic\\Semester 4\\SDP\\NP_SDP_Tutorials-Practicals\\Week6\\Week6Practical2\\Week6Practical2\\QuestGenerator.cs",
+              "RelativeToolTip": "Week6Practical2\\QuestGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:46:21.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestFactory.cs",
+              "DocumentMoniker": "C:\\Users\\spart\\OneDrive - Ngee Ann Polytechnic\\Semester 4\\SDP\\NP_SDP_Tutorials-Practicals\\Week6\\Week6Practical2\\Week6Practical2\\QuestFactory.cs",
+              "RelativeDocumentMoniker": "Week6Practical2\\QuestFactory.cs",
+              "ToolTip": "C:\\Users\\spart\\OneDrive - Ngee Ann Polytechnic\\Semester 4\\SDP\\NP_SDP_Tutorials-Practicals\\Week6\\Week6Practical2\\Week6Practical2\\QuestFactory.cs",
+              "RelativeToolTip": "Week6Practical2\\QuestFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:46:20.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spart\\OneDrive - Ngee Ann Polytechnic\\Semester 4\\SDP\\NP_SDP_Tutorials-Practicals\\Week6\\Week6Practical2\\Week6Practical2\\Program.cs",
+              "RelativeDocumentMoniker": "Week6Practical2\\Program.cs",
+              "ToolTip": "C:\\Users\\spart\\OneDrive - Ngee Ann Polytechnic\\Semester 4\\SDP\\NP_SDP_Tutorials-Practicals\\Week6\\Week6Practical2\\Week6Practical2\\Program.cs",
+              "RelativeToolTip": "Week6Practical2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:27:39.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
