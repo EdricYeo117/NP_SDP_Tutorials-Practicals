@@ -1,0 +1,14 @@
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week4\Practical4\Practical4\Practical4\bin\Debug\net8.0\Practical4.exe
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week4\Practical4\Practical4\Practical4\bin\Debug\net8.0\Practical4.deps.json
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week4\Practical4\Practical4\Practical4\bin\Debug\net8.0\Practical4.runtimeconfig.json
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week4\Practical4\Practical4\Practical4\bin\Debug\net8.0\Practical4.dll
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week4\Practical4\Practical4\Practical4\bin\Debug\net8.0\Practical4.pdb
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week4\Practical4\Practical4\Practical4\obj\Debug\net8.0\Practical4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week4\Practical4\Practical4\Practical4\obj\Debug\net8.0\Practical4.AssemblyInfoInputs.cache
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week4\Practical4\Practical4\Practical4\obj\Debug\net8.0\Practical4.AssemblyInfo.cs
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week4\Practical4\Practical4\Practical4\obj\Debug\net8.0\Practical4.csproj.CoreCompileInputs.cache
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week4\Practical4\Practical4\Practical4\obj\Debug\net8.0\Practical4.dll
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week4\Practical4\Practical4\Practical4\obj\Debug\net8.0\refint\Practical4.dll
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week4\Practical4\Practical4\Practical4\obj\Debug\net8.0\Practical4.pdb
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week4\Practical4\Practical4\Practical4\obj\Debug\net8.0\Practical4.genruntimeconfig.cache
+C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week4\Practical4\Practical4\Practical4\obj\Debug\net8.0\ref\Practical4.dll

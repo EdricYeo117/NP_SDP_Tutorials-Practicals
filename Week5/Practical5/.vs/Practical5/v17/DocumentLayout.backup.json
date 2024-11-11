@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spart\\OneDrive\\Desktop\\SDPPracticals\\Week5\\Practical5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67683491-5826-4C05-B864-430D7AE8B200}|Practical5\\Practical5.csproj|c:\\users\\spart\\onedrive\\desktop\\sdppracticals\\week5\\practical5\\practical5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67683491-5826-4C05-B864-430D7AE8B200}|Practical5\\Practical5.csproj|solutionrelative:practical5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spart\\OneDrive\\Desktop\\SDPPracticals\\Week5\\Practical5\\Practical5\\Program.cs",
+              "RelativeDocumentMoniker": "Practical5\\Program.cs",
+              "ToolTip": "C:\\Users\\spart\\OneDrive\\Desktop\\SDPPracticals\\Week5\\Practical5\\Practical5\\Program.cs",
+              "RelativeToolTip": "Practical5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:04:11.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

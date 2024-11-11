@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spart\\OneDrive - Ngee Ann Polytechnic\\Semester 4\\SDP\\NP_SDP_Tutorials-Practicals\\Week4\\Tutorial4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D57F8CD2-9223-446F-9397-4F3EEC71C049}|Tutorial4\\Tutorial4.csproj|c:\\users\\spart\\onedrive - ngee ann polytechnic\\semester 4\\sdp\\np_sdp_tutorials-practicals\\week4\\tutorial4\\tutorial4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57F8CD2-9223-446F-9397-4F3EEC71C049}|Tutorial4\\Tutorial4.csproj|solutionrelative:tutorial4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spart\\OneDrive - Ngee Ann Polytechnic\\Semester 4\\SDP\\NP_SDP_Tutorials-Practicals\\Week4\\Tutorial4\\Tutorial4\\Program.cs",
+              "RelativeDocumentMoniker": "Tutorial4\\Program.cs",
+              "ToolTip": "C:\\Users\\spart\\OneDrive - Ngee Ann Polytechnic\\Semester 4\\SDP\\NP_SDP_Tutorials-Practicals\\Week4\\Tutorial4\\Tutorial4\\Program.cs",
+              "RelativeToolTip": "Tutorial4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:25:14.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
