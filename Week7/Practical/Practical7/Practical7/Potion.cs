@@ -4,22 +4,14 @@ namespace Practical7
 {
     public abstract class Potion
     {
-        private Player player;
         private string name;
         private int doses;
 
         // Constructor to initialize the potion
-        public Potion(Player player, string name, int doses)
+        public Potion(string name, int doses)
         {
-            this.player = player;
             this.name = name;
             this.doses = doses;
-        }
-
-        // Getter for player
-        public Player getPlayer()
-        {
-            return player;
         }
 
         // Getter for name
@@ -58,14 +50,24 @@ namespace Practical7
 
     public class HealingPotion : Potion
     {
+        private Player Player;
         private int healAmount;
 
         // Constructor to initialize the healing potion
-        public HealingPotion(Player player, int healAmount, int doses) : base(player, "Healing Potion", doses)
+        public HealingPotion(Player player, int healAmount, int doses) : base("Healing Potion", doses)
         {
+            this.Player = player;
             this.healAmount = healAmount;
         }
+        public void setPlayer(Player player)
+        {
+            this.Player = player;
+        }
 
+        public Player getPlayer()
+        {
+            return Player;
+        }
         // Override drink method
         public override int drink()
         {
@@ -79,13 +81,25 @@ namespace Practical7
 
     public class ManaPotion : Potion
     {
+        private Player Player;
         private int manaAmount;
 
         // Constructor to initialize the mana potion
-        public ManaPotion(Player player, int manaAmount, int doses) : base(player, "Mana Potion", doses)
+        public ManaPotion(Player player, int manaAmount, int doses) : base("Mana Potion", doses)
         {
+            this.Player = player;
             this.manaAmount = manaAmount;
         }
+
+        public void setPlayer(Player player)
+        {
+            this.Player = player;
+        }
+
+        public Player getPlayer()
+        {
+            return Player;
+        }   
 
         // Override drink method
         public override int drink()

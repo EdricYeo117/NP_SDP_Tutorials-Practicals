@@ -34,14 +34,15 @@ namespace Practical7
         {
             int healed = healingPotion.drink();
             healingPotion.getPlayer().heal(healed); 
-            Console.WriteLine($"Player is healed for {healed} HP.");
+            Console.WriteLine($"Player is healed for {healed} HP and now has {healingPotion.getPlayer().getHp()} HP");
         }
 
         public void undo()
         {
-            healingPotion.getPlayer().takeDamage(10); 
+            int healed = healingPotion.drink();
+            healingPotion.getPlayer().takeDamage(healed);
             healingPotion.incrementDoses(); 
-            Console.WriteLine("Undoing drinking healing potion for 10 HP.");
+            Console.WriteLine($"Undoing drinking healing potion for {healed} HP.");
         }
     }
 
@@ -55,17 +56,18 @@ namespace Practical7
         }
 
         public void execute()
-        {
-            int restored = manaPotion.drink();
+        { 
+           int restored = manaPotion.drink();
             manaPotion.getPlayer().restoreMana(restored); 
-            Console.WriteLine($"Player restores {restored} MP.");
+            Console.WriteLine($"Player restores {restored} MP and now has {manaPotion.getPlayer().getMp()} MP.");
         }
 
         public void undo()
         {
-            manaPotion.getPlayer().useMana(5); 
+            int restored = manaPotion.drink();
+            manaPotion.getPlayer().useMana(restored); 
             manaPotion.incrementDoses(); 
-            Console.WriteLine("Undoing drinking mana potion for 5 MP.");
+            Console.WriteLine($"Undoing drinking mana potion for {restored} MP.");
         }
     }
 
@@ -117,7 +119,7 @@ namespace Practical7
                 int healed = spell.effect();
                 player.useMana(spell.getCost()); 
                 player.heal(healed);
-                Console.WriteLine($"Player casts HEALING and heals for {healed} HP.");
+                Console.WriteLine($"Player casts HEALING and heals for {healed} HP and now has {spell.getPlayer().getHp()} HP.");
             }
             else
             {
@@ -127,10 +129,11 @@ namespace Practical7
 
         public void undo()
         {
+            int healed = spell.effect();
             Player player = spell.getPlayer(); 
             player.takeDamage(player.getMagicPower()); 
             player.restoreMana(spell.getCost()); 
-            Console.WriteLine("Undoing casting HEALING spell.");
+            Console.WriteLine($"Undoing casting HEALING spell for {healed} HP.");
         }
     }
 }
