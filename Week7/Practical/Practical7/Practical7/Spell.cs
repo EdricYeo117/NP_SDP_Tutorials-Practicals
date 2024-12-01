@@ -4,22 +4,14 @@ namespace Practical7
 {
     public abstract class Spell
     {
-        private Player player;
         private string name;
         private int cost;
 
         // Constructor to initialize Spell
-        public Spell(Player player, string name, int cost)
+        public Spell(string name, int cost)
         {
-            this.player = player;
             this.name = name;
             this.cost = cost;
-        }
-
-        // Getter for player
-        public Player getPlayer()
-        {
-            return player;
         }
 
         // Getter for name
@@ -40,9 +32,19 @@ namespace Practical7
 
     public class FireballSpell : Spell
     {
+        private Player Player;
         // Constructor to initialize FireballSpell
-        public FireballSpell(Player player, int cost) : base(player, "Fireball", cost) { }
+        public FireballSpell(Player player, int cost) : base("Fireball", cost) { Player = player; }
 
+        public void setPlayer(Player player)
+        {
+            this.Player = player;
+        }
+
+        public Player getPlayer()
+        {
+            return Player;
+        }
         // Override effect
         public override int effect()
         {
@@ -52,9 +54,18 @@ namespace Practical7
 
     public class HealingSpell : Spell
     {
+        private Player Player;
         // Constructor to initialize HealingSpell
-        public HealingSpell(Player player, int cost) : base(player, "Healing", cost) { }
+        public HealingSpell(Player player, int cost) : base( "Healing", cost) { Player = player; }
+        public void setPlayer(Player player)
+        {
+            this.Player = player;
+        }
 
+        public Player getPlayer()
+        {
+            return Player;
+        }
         // Override effect
         public override int effect()
         {

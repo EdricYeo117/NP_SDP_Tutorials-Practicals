@@ -1,12 +1,72 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\spart\\OneDrive - Ngee Ann Polytechnic\\Semester 4\\SDP\\NP_SDP_Tutorials-Practicals\\Week7\\Practical\\Practical7\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week7\\Practical\\Practical7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52766858-538B-49E3-9F71-E2010FFAAFB1}|Practical7\\Practical7.csproj|c:\\users\\spart\\onedrive\\desktop\\np_sdp_tutorials-practicals\\week7\\practical\\practical7\\practical7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52766858-538B-49E3-9F71-E2010FFAAFB1}|Practical7\\Practical7.csproj|solutionrelative:practical7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52766858-538B-49E3-9F71-E2010FFAAFB1}|Practical7\\Practical7.csproj|c:\\users\\spart\\onedrive\\desktop\\np_sdp_tutorials-practicals\\week7\\practical\\practical7\\practical7\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52766858-538B-49E3-9F71-E2010FFAAFB1}|Practical7\\Practical7.csproj|solutionrelative:practical7\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52766858-538B-49E3-9F71-E2010FFAAFB1}|Practical7\\Practical7.csproj|c:\\users\\spart\\onedrive\\desktop\\np_sdp_tutorials-practicals\\week7\\practical\\practical7\\practical7\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52766858-538B-49E3-9F71-E2010FFAAFB1}|Practical7\\Practical7.csproj|solutionrelative:practical7\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week7\\Practical\\Practical7\\Practical7\\Program.cs",
+              "RelativeDocumentMoniker": "Practical7\\Program.cs",
+              "ToolTip": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week7\\Practical\\Practical7\\Practical7\\Program.cs",
+              "RelativeToolTip": "Practical7\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:26:55.37Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week7\\Practical\\Practical7\\Practical7\\Command.cs",
+              "RelativeDocumentMoniker": "Practical7\\Command.cs",
+              "ToolTip": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week7\\Practical\\Practical7\\Practical7\\Command.cs",
+              "RelativeToolTip": "Practical7\\Command.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwH8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:38:24.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week7\\Practical\\Practical7\\Practical7\\Player.cs",
+              "RelativeDocumentMoniker": "Practical7\\Player.cs",
+              "ToolTip": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week7\\Practical\\Practical7\\Practical7\\Player.cs",
+              "RelativeToolTip": "Practical7\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:37:43.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

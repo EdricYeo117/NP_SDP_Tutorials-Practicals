@@ -13,3 +13,18 @@ C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-P
 C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\obj\Debug\net8.0\Practical7.pdb
 C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\obj\Debug\net8.0\Practical7.genruntimeconfig.cache
 C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\obj\Debug\net8.0\ref\Practical7.dll
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\bin\Debug\net8.0\Practical7.exe
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\bin\Debug\net8.0\Practical7.deps.json
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\bin\Debug\net8.0\Practical7.runtimeconfig.json
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\bin\Debug\net8.0\Practical7.dll
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\bin\Debug\net8.0\Practical7.pdb
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\obj\Debug\net8.0\Practical7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\obj\Debug\net8.0\Practical7.AssemblyInfoInputs.cache
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\obj\Debug\net8.0\Practical7.AssemblyInfo.cs
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\obj\Debug\net8.0\Practical7.csproj.CoreCompileInputs.cache
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\obj\Debug\net8.0\Practical7.sourcelink.json
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\obj\Debug\net8.0\Practical7.dll
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\obj\Debug\net8.0\refint\Practical7.dll
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\obj\Debug\net8.0\Practical7.pdb
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\obj\Debug\net8.0\Practical7.genruntimeconfig.cache
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week7\Practical\Practical7\Practical7\obj\Debug\net8.0\ref\Practical7.dll
