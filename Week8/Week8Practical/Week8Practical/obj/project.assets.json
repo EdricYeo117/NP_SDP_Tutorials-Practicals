@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spart\\OneDrive - Ngee Ann Polytechnic\\Semester 4\\SDP\\NP_SDP_Tutorials-Practicals\\Week8\\Week8Practical\\Week8Practical\\Week8Practical.csproj",
+      "projectUniqueName": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week8\\Week8Practical\\Week8Practical\\Week8Practical.csproj",
       "projectName": "Week8Practical",
-      "projectPath": "C:\\Users\\spart\\OneDrive - Ngee Ann Polytechnic\\Semester 4\\SDP\\NP_SDP_Tutorials-Practicals\\Week8\\Week8Practical\\Week8Practical\\Week8Practical.csproj",
+      "projectPath": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week8\\Week8Practical\\Week8Practical\\Week8Practical.csproj",
       "packagesPath": "C:\\Users\\spart\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spart\\OneDrive - Ngee Ann Polytechnic\\Semester 4\\SDP\\NP_SDP_Tutorials-Practicals\\Week8\\Week8Practical\\Week8Practical\\obj\\",
+      "outputPath": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week8\\Week8Practical\\Week8Practical\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -72,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

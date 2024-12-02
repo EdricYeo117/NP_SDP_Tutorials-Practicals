@@ -8,9 +8,7 @@ void Main()
     GameEntity hero2 = new PC("Wendy", "Wizard");
     GameEntity mob1 = new NPC("Oscar", "Orc");
     GameEntity mob2 = new NPC("Gary", "Goblin");
-
     GameEntity arenaTeams = new Team("Arena");
-
     GameEntity team1 = new Team("Awesome");
     team1.add(hero1);
     GameEntity team2 = new Team("Killers");
@@ -21,18 +19,15 @@ void Main()
     arenaTeams.add(team1);
     arenaTeams.add(team2);
     arenaTeams.add(team3);
-
     Arena arena = new Arena(arenaTeams);
     Console.WriteLine("--- Current Arena Teams ---");
     arena.print();
     Console.WriteLine("---------------------------\n");
-
-    arena.remove(team2);
+    arena.removeEntity(team2);
     team3.add(team2);
     Console.WriteLine("--- New Arena Teams ---");
     arena.print();
     Console.WriteLine("-----------------------");
-
 }
 
 Main();
