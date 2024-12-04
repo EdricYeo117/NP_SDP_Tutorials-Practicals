@@ -1,9 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Security;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Week8Practical
 {
@@ -48,7 +44,7 @@ namespace Week8Practical
 
         public override string getDescription()
         {
-            return Name + " the " + Profession;
+            return $"{Name} the {Profession}";
         }
 
         public override void print()
@@ -69,7 +65,7 @@ namespace Week8Practical
 
         public override string getDescription()
         {
-            return Name + " the " + Profession;
+            return $"{Name} the {Profession}";
         }
 
         public override void print()
@@ -81,6 +77,7 @@ namespace Week8Practical
     public class Team : GameEntity
     {
         private List<GameEntity> teamEntities;
+
         public Team(string name)
         {
             Name = name;
@@ -89,19 +86,46 @@ namespace Week8Practical
 
         public override void add(GameEntity entity)
         {
-            teamEntities.Add(entity);
-            Console.WriteLine($"{entity.Name} joins {Name}");
+            if (entity != null)
+            {
+                teamEntities.Add(entity);
+                Console.WriteLine($"{entity.getDescription()} joins {Name}!");
+            }
+            else
+            {
+                throw new ArgumentNullException(nameof(entity), "Cannot add a null entity");
+            }
         }
 
         public override void remove(GameEntity entity)
         {
-            teamEntities.Remove(entity);
-            Console.WriteLine($"{entity.Name} leaves {Name}");
+            if (entity != null && teamEntities.Contains(entity))
+            {
+                teamEntities.Remove(entity);
+                Console.WriteLine($"{entity.getDescription()} leaves {Name}!");
+            }
+            else
+            {
+                throw new InvalidOperationException("Entity not found in the team.");
+            }
         }
 
         public override GameEntity getChild(int index)
         {
-            return teamEntities[index];
+            if (index >= 0 && index < teamEntities.Count)
+            {
+                return teamEntities[index];
+            }
+            else
+            {
+                throw new ArgumentOutOfRangeException(nameof(index), "Index is out of range.");
+            }
+        }
+
+        // Properly override getDescription to return a meaningful description
+        public override string getDescription()
+        {
+            return $"Team {Name}";
         }
 
         public override void print()
@@ -112,38 +136,80 @@ namespace Week8Practical
                 entity.print();
             }
         }
+
+        public List<GameEntity> GetEntities()
+        {
+            return teamEntities;
+        }
     }
 
-    public class Arena : GameEntity
+    public class Arena
     {
-        private GameEntity arenaTeams;
-        public Arena(GameEntity teams)
+        private string Name { get; set; }
+        private List<GameEntity> arenaTeams;
+
+        // Default constructor
+        public Arena()
         {
             Name = "Arena";
-            arenaTeams = teams;
+            arenaTeams = new List<GameEntity>();
         }
 
-        public override void add(GameEntity entity)
+        // Constructor that takes a GameEntity (a team) and adds its entities to the arena
+        public Arena(GameEntity initialTeam)
         {
-            arenaTeams.add(entity);
-            Console.WriteLine($"Team {entity.Name} joins {Name}");
+            Name = "Arena";
+            arenaTeams = new List<GameEntity>();
+
+            if (initialTeam is Team team)
+            {
+                foreach (var entity in team.GetEntities())
+                {
+                    arenaTeams.Add(entity); // Directly adding to avoid duplicate join messages
+                }
+            }
+            else
+            {
+                throw new ArgumentException("Initial team must be of type Team");
+            }
         }
 
-        public override void remove(GameEntity entity)
+        // Add entity to the arena
+        public void addEntity(GameEntity team)
         {
-            arenaTeams.add(entity);
-            Console.WriteLine($"Team {entity.Name} leaves {Name}");
+            if (team != null)
+            {
+                arenaTeams.Add(team);
+                Console.WriteLine($"Team {team.Name} joins {Name}!");
+            }
+            else
+            {
+                throw new ArgumentNullException(nameof(team), "Cannot add a null team");
+            }
         }
 
-        public override GameEntity getChild(int index)
+        // Remove entity from the arena
+        public void removeEntity(GameEntity team)
         {
-            return base.getChild(index);
+            if (team != null && arenaTeams.Contains(team))
+            {
+                arenaTeams.Remove(team);
+                Console.WriteLine($"Team {team.Name} leaves {Name}!");
+            }
+            else
+            {
+                throw new InvalidOperationException("Team not found in the arena.");
+            }
         }
 
-        public override void print()
+        // Print the current state of the arena
+        public void print()
         {
             Console.WriteLine($"{Name}:");
-            arenaTeams.print();
+            foreach (var team in arenaTeams)
+            {
+                team.print();
+            }
         }
     }
 }

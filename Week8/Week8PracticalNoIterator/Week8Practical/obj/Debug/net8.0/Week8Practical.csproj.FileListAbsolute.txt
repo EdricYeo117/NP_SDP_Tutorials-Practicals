@@ -13,3 +13,18 @@ C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-P
 C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\obj\Debug\net8.0\Week8Practical.pdb
 C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\obj\Debug\net8.0\Week8Practical.genruntimeconfig.cache
 C:\Users\spart\OneDrive - Ngee Ann Polytechnic\Semester 4\SDP\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\obj\Debug\net8.0\ref\Week8Practical.dll
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\obj\Debug\net8.0\Week8Practical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\obj\Debug\net8.0\Week8Practical.AssemblyInfoInputs.cache
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\obj\Debug\net8.0\Week8Practical.AssemblyInfo.cs
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\obj\Debug\net8.0\Week8Practical.csproj.CoreCompileInputs.cache
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\obj\Debug\net8.0\Week8Practical.sourcelink.json
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\obj\Debug\net8.0\Week8Practical.dll
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\obj\Debug\net8.0\refint\Week8Practical.dll
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\obj\Debug\net8.0\Week8Practical.pdb
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\bin\Debug\net8.0\Week8Practical.exe
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\bin\Debug\net8.0\Week8Practical.deps.json
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\bin\Debug\net8.0\Week8Practical.runtimeconfig.json
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\bin\Debug\net8.0\Week8Practical.dll
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\bin\Debug\net8.0\Week8Practical.pdb
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\obj\Debug\net8.0\Week8Practical.genruntimeconfig.cache
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week8\Week8Practical\Week8Practical\obj\Debug\net8.0\ref\Week8Practical.dll

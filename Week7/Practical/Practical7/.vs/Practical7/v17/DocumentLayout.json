@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week7\\Practical\\Practical7\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{52766858-538B-49E3-9F71-E2010FFAAFB1}|Practical7\\Practical7.csproj|c:\\users\\spart\\onedrive\\desktop\\np_sdp_tutorials-practicals\\week7\\practical\\practical7\\practical7\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52766858-538B-49E3-9F71-E2010FFAAFB1}|Practical7\\Practical7.csproj|solutionrelative:practical7\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52766858-538B-49E3-9F71-E2010FFAAFB1}|Practical7\\Practical7.csproj|c:\\users\\spart\\onedrive\\desktop\\np_sdp_tutorials-practicals\\week7\\practical\\practical7\\practical7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52766858-538B-49E3-9F71-E2010FFAAFB1}|Practical7\\Practical7.csproj|solutionrelative:practical7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week7\\Practical\\Practical7\\Practical7\\Program.cs",
               "RelativeDocumentMoniker": "Practical7\\Program.cs",
@@ -40,7 +44,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Potion.cs",
+              "DocumentMoniker": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week7\\Practical\\Practical7\\Practical7\\Potion.cs",
+              "RelativeDocumentMoniker": "Practical7\\Potion.cs",
+              "ToolTip": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week7\\Practical\\Practical7\\Practical7\\Potion.cs",
+              "RelativeToolTip": "Practical7\\Potion.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAiwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:45:15.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Command.cs",
               "DocumentMoniker": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week7\\Practical\\Practical7\\Practical7\\Command.cs",
               "RelativeDocumentMoniker": "Practical7\\Command.cs",
@@ -48,12 +65,11 @@
               "RelativeToolTip": "Practical7\\Command.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAYwH8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:38:24.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T07:38:24.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week7\\Practical\\Practical7\\Practical7\\Player.cs",
               "RelativeDocumentMoniker": "Practical7\\Player.cs",
@@ -61,8 +77,7 @@
               "RelativeToolTip": "Practical7\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:37:43.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T07:37:43.259Z"
             }
           ]
         }
