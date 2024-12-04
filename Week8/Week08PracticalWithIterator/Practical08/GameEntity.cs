@@ -43,6 +43,5 @@ namespace Practical08
                 throw new NotSupportedException();
             }
         }
-
     }
 }
