@@ -1,0 +1,14 @@
+C:\Users\weiyi\OneDrive - Ngee Ann Polytechnic\Desktop\Y2S2 (IT)\SDP\L8 - Composite\Practical08\Practical08\bin\Debug\net8.0\Practical08.exe
+C:\Users\weiyi\OneDrive - Ngee Ann Polytechnic\Desktop\Y2S2 (IT)\SDP\L8 - Composite\Practical08\Practical08\bin\Debug\net8.0\Practical08.deps.json
+C:\Users\weiyi\OneDrive - Ngee Ann Polytechnic\Desktop\Y2S2 (IT)\SDP\L8 - Composite\Practical08\Practical08\bin\Debug\net8.0\Practical08.runtimeconfig.json
+C:\Users\weiyi\OneDrive - Ngee Ann Polytechnic\Desktop\Y2S2 (IT)\SDP\L8 - Composite\Practical08\Practical08\bin\Debug\net8.0\Practical08.dll
+C:\Users\weiyi\OneDrive - Ngee Ann Polytechnic\Desktop\Y2S2 (IT)\SDP\L8 - Composite\Practical08\Practical08\bin\Debug\net8.0\Practical08.pdb
+C:\Users\weiyi\OneDrive - Ngee Ann Polytechnic\Desktop\Y2S2 (IT)\SDP\L8 - Composite\Practical08\Practical08\obj\Debug\net8.0\Practical08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weiyi\OneDrive - Ngee Ann Polytechnic\Desktop\Y2S2 (IT)\SDP\L8 - Composite\Practical08\Practical08\obj\Debug\net8.0\Practical08.AssemblyInfoInputs.cache
+C:\Users\weiyi\OneDrive - Ngee Ann Polytechnic\Desktop\Y2S2 (IT)\SDP\L8 - Composite\Practical08\Practical08\obj\Debug\net8.0\Practical08.AssemblyInfo.cs
+C:\Users\weiyi\OneDrive - Ngee Ann Polytechnic\Desktop\Y2S2 (IT)\SDP\L8 - Composite\Practical08\Practical08\obj\Debug\net8.0\Practical08.csproj.CoreCompileInputs.cache
+C:\Users\weiyi\OneDrive - Ngee Ann Polytechnic\Desktop\Y2S2 (IT)\SDP\L8 - Composite\Practical08\Practical08\obj\Debug\net8.0\Practical08.dll
+C:\Users\weiyi\OneDrive - Ngee Ann Polytechnic\Desktop\Y2S2 (IT)\SDP\L8 - Composite\Practical08\Practical08\obj\Debug\net8.0\refint\Practical08.dll
+C:\Users\weiyi\OneDrive - Ngee Ann Polytechnic\Desktop\Y2S2 (IT)\SDP\L8 - Composite\Practical08\Practical08\obj\Debug\net8.0\Practical08.pdb
+C:\Users\weiyi\OneDrive - Ngee Ann Polytechnic\Desktop\Y2S2 (IT)\SDP\L8 - Composite\Practical08\Practical08\obj\Debug\net8.0\Practical08.genruntimeconfig.cache
+C:\Users\weiyi\OneDrive - Ngee Ann Polytechnic\Desktop\Y2S2 (IT)\SDP\L8 - Composite\Practical08\Practical08\obj\Debug\net8.0\ref\Practical08.dll
