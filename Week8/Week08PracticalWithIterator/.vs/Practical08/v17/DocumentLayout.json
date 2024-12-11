@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\weiyi\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Y2S2 (IT)\\SDP\\L8 - Composite\\Practical08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6491613A-C9D6-44D2-B5E8-AD6530C80210}|Practical08\\Practical08.csproj|c:\\users\\weiyi\\onedrive - ngee ann polytechnic\\desktop\\y2s2 (it)\\sdp\\l8 - composite\\practical08\\practical08\\teamiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6491613A-C9D6-44D2-B5E8-AD6530C80210}|Practical08\\Practical08.csproj|solutionrelative:practical08\\teamiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491613A-C9D6-44D2-B5E8-AD6530C80210}|Practical08\\Practical08.csproj|c:\\users\\weiyi\\onedrive - ngee ann polytechnic\\desktop\\y2s2 (it)\\sdp\\l8 - composite\\practical08\\practical08\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6491613A-C9D6-44D2-B5E8-AD6530C80210}|Practical08\\Practical08.csproj|solutionrelative:practical08\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491613A-C9D6-44D2-B5E8-AD6530C80210}|Practical08\\Practical08.csproj|c:\\users\\weiyi\\onedrive - ngee ann polytechnic\\desktop\\y2s2 (it)\\sdp\\l8 - composite\\practical08\\practical08\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6491613A-C9D6-44D2-B5E8-AD6530C80210}|Practical08\\Practical08.csproj|solutionrelative:practical08\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491613A-C9D6-44D2-B5E8-AD6530C80210}|Practical08\\Practical08.csproj|c:\\users\\weiyi\\onedrive - ngee ann polytechnic\\desktop\\y2s2 (it)\\sdp\\l8 - composite\\practical08\\practical08\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6491613A-C9D6-44D2-B5E8-AD6530C80210}|Practical08\\Practical08.csproj|solutionrelative:practical08\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491613A-C9D6-44D2-B5E8-AD6530C80210}|Practical08\\Practical08.csproj|c:\\users\\weiyi\\onedrive - ngee ann polytechnic\\desktop\\y2s2 (it)\\sdp\\l8 - composite\\practical08\\practical08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6491613A-C9D6-44D2-B5E8-AD6530C80210}|Practical08\\Practical08.csproj|solutionrelative:practical08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491613A-C9D6-44D2-B5E8-AD6530C80210}|Practical08\\Practical08.csproj|c:\\users\\weiyi\\onedrive - ngee ann polytechnic\\desktop\\y2s2 (it)\\sdp\\l8 - composite\\practical08\\practical08\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6491613A-C9D6-44D2-B5E8-AD6530C80210}|Practical08\\Practical08.csproj|solutionrelative:practical08\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491613A-C9D6-44D2-B5E8-AD6530C80210}|Practical08\\Practical08.csproj|c:\\users\\weiyi\\onedrive - ngee ann polytechnic\\desktop\\y2s2 (it)\\sdp\\l8 - composite\\practical08\\practical08\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6491613A-C9D6-44D2-B5E8-AD6530C80210}|Practical08\\Practical08.csproj|solutionrelative:practical08\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 308,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameEntity.cs",
+              "DocumentMoniker": "C:\\Users\\weiyi\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Y2S2 (IT)\\SDP\\L8 - Composite\\Practical08\\Practical08\\GameEntity.cs",
+              "RelativeDocumentMoniker": "Practical08\\GameEntity.cs",
+              "ToolTip": "C:\\Users\\weiyi\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Y2S2 (IT)\\SDP\\L8 - Composite\\Practical08\\Practical08\\GameEntity.cs",
+              "RelativeToolTip": "Practical08\\GameEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:21:41.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\Users\\weiyi\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Y2S2 (IT)\\SDP\\L8 - Composite\\Practical08\\Practical08\\NPC.cs",
+              "RelativeDocumentMoniker": "Practical08\\NPC.cs",
+              "ToolTip": "C:\\Users\\weiyi\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Y2S2 (IT)\\SDP\\L8 - Composite\\Practical08\\Practical08\\NPC.cs",
+              "RelativeToolTip": "Practical08\\NPC.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:17:44.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\weiyi\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Y2S2 (IT)\\SDP\\L8 - Composite\\Practical08\\Practical08\\Program.cs",
+              "RelativeDocumentMoniker": "Practical08\\Program.cs",
+              "ToolTip": "C:\\Users\\weiyi\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Y2S2 (IT)\\SDP\\L8 - Composite\\Practical08\\Practical08\\Program.cs",
+              "RelativeToolTip": "Practical08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:12:14.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\weiyi\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Y2S2 (IT)\\SDP\\L8 - Composite\\Practical08\\Practical08\\Team.cs",
+              "RelativeDocumentMoniker": "Practical08\\Team.cs",
+              "ToolTip": "C:\\Users\\weiyi\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Y2S2 (IT)\\SDP\\L8 - Composite\\Practical08\\Practical08\\Team.cs",
+              "RelativeToolTip": "Practical08\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:24:52.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arena.cs",
+              "DocumentMoniker": "C:\\Users\\weiyi\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Y2S2 (IT)\\SDP\\L8 - Composite\\Practical08\\Practical08\\Arena.cs",
+              "RelativeDocumentMoniker": "Practical08\\Arena.cs",
+              "ToolTip": "C:\\Users\\weiyi\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Y2S2 (IT)\\SDP\\L8 - Composite\\Practical08\\Practical08\\Arena.cs",
+              "RelativeToolTip": "Practical08\\Arena.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:38:43.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PC.cs",
+              "DocumentMoniker": "C:\\Users\\weiyi\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Y2S2 (IT)\\SDP\\L8 - Composite\\Practical08\\Practical08\\PC.cs",
+              "RelativeDocumentMoniker": "Practical08\\PC.cs",
+              "ToolTip": "C:\\Users\\weiyi\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Y2S2 (IT)\\SDP\\L8 - Composite\\Practical08\\Practical08\\PC.cs",
+              "RelativeToolTip": "Practical08\\PC.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:01:07.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamIterator.cs",
+              "DocumentMoniker": "C:\\Users\\weiyi\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Y2S2 (IT)\\SDP\\L8 - Composite\\Practical08\\Practical08\\TeamIterator.cs",
+              "RelativeDocumentMoniker": "Practical08\\TeamIterator.cs",
+              "ToolTip": "C:\\Users\\weiyi\\OneDrive - Ngee Ann Polytechnic\\Desktop\\Y2S2 (IT)\\SDP\\L8 - Composite\\Practical08\\Practical08\\TeamIterator.cs",
+              "RelativeToolTip": "Practical08\\TeamIterator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:33:29.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
