@@ -1,0 +1,15 @@
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week13\Week13Practical\Week13-2\Week13-2\bin\Debug\net8.0\Week13-2.exe
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week13\Week13Practical\Week13-2\Week13-2\bin\Debug\net8.0\Week13-2.deps.json
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week13\Week13Practical\Week13-2\Week13-2\bin\Debug\net8.0\Week13-2.runtimeconfig.json
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week13\Week13Practical\Week13-2\Week13-2\bin\Debug\net8.0\Week13-2.dll
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week13\Week13Practical\Week13-2\Week13-2\bin\Debug\net8.0\Week13-2.pdb
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week13\Week13Practical\Week13-2\Week13-2\obj\Debug\net8.0\Week13-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week13\Week13Practical\Week13-2\Week13-2\obj\Debug\net8.0\Week13-2.AssemblyInfoInputs.cache
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week13\Week13Practical\Week13-2\Week13-2\obj\Debug\net8.0\Week13-2.AssemblyInfo.cs
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week13\Week13Practical\Week13-2\Week13-2\obj\Debug\net8.0\Week13-2.csproj.CoreCompileInputs.cache
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week13\Week13Practical\Week13-2\Week13-2\obj\Debug\net8.0\Week13-2.sourcelink.json
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week13\Week13Practical\Week13-2\Week13-2\obj\Debug\net8.0\Week13-2.dll
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week13\Week13Practical\Week13-2\Week13-2\obj\Debug\net8.0\refint\Week13-2.dll
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week13\Week13Practical\Week13-2\Week13-2\obj\Debug\net8.0\Week13-2.pdb
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week13\Week13Practical\Week13-2\Week13-2\obj\Debug\net8.0\Week13-2.genruntimeconfig.cache
+C:\Users\spart\OneDrive\Desktop\NP_SDP_Tutorials-Practicals\Week13\Week13Practical\Week13-2\Week13-2\obj\Debug\net8.0\ref\Week13-2.dll
