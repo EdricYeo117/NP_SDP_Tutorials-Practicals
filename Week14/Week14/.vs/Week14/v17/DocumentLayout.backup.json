@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week14\\Week14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36C8E6BA-E0EC-4695-8AF8-7B23E01D0143}|Week14\\Week14.csproj|c:\\users\\spart\\onedrive\\desktop\\np_sdp_tutorials-practicals\\week14\\week14\\week14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C8E6BA-E0EC-4695-8AF8-7B23E01D0143}|Week14\\Week14.csproj|solutionrelative:week14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week14\\Week14\\Week14\\Program.cs",
+              "RelativeDocumentMoniker": "Week14\\Program.cs",
+              "ToolTip": "C:\\Users\\spart\\OneDrive\\Desktop\\NP_SDP_Tutorials-Practicals\\Week14\\Week14\\Week14\\Program.cs",
+              "RelativeToolTip": "Week14\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T08:57:55.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
